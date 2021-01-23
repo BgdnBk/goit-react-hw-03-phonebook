@@ -1,0 +1,25 @@
+.container {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-color: #36279c;
+  color: white;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+}
+.contactList {
+  display: flex;
+  justify-content: center;
+}
+
+.btnList {
+  min-width: 120px;
+  background-color: #8ea32e;
+  margin-left: 10px;
+  border-radius: 4px;
+  border: none;
+}

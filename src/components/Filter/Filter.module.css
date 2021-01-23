@@ -1,0 +1,28 @@
+.containerSearch {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.labelSearch {
+  margin-bottom: 13px;
+  font-size: 20px;
+}
+
+.inputSearch {
+  font-size: 20px;
+}

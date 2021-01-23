@@ -1,0 +1,28 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.labelName {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+.labelNumber {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
+.btnForm {
+  min-width: 180px;
+  height: 50px;
+  color: white;
+  background-color: #a8372f;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  outline: none;
+}
